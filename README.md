@@ -1,2 +1,2 @@
 # python_to_mongodb
-python中使用mongodb案例
+mysql数据库速度较慢，，python中使用mongodb案例
